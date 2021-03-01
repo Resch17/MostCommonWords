@@ -1,0 +1,16 @@
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\bin\Debug\net5.0\MostCommonWords.exe
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\bin\Debug\net5.0\MostCommonWords.deps.json
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\bin\Debug\net5.0\MostCommonWords.runtimeconfig.json
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\bin\Debug\net5.0\MostCommonWords.runtimeconfig.dev.json
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\bin\Debug\net5.0\MostCommonWords.dll
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\bin\Debug\net5.0\ref\MostCommonWords.dll
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\bin\Debug\net5.0\MostCommonWords.pdb
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\obj\Debug\net5.0\MostCommonWords.csprojAssemblyReference.cache
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\obj\Debug\net5.0\MostCommonWords.GeneratedMSBuildEditorConfig.editorconfig
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\obj\Debug\net5.0\MostCommonWords.AssemblyInfoInputs.cache
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\obj\Debug\net5.0\MostCommonWords.AssemblyInfo.cs
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\obj\Debug\net5.0\MostCommonWords.csproj.CoreCompileInputs.cache
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\obj\Debug\net5.0\MostCommonWords.dll
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\obj\Debug\net5.0\ref\MostCommonWords.dll
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\obj\Debug\net5.0\MostCommonWords.pdb
+G:\WebDev\NSS\BackEnd\workspace\csharp\MostCommonWords\obj\Debug\net5.0\MostCommonWords.genruntimeconfig.cache
